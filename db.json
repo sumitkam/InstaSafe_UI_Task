@@ -1,0 +1,81 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "name": "ankit",
+      "email": "ankit@gmail.com",
+      "phone": 888459632,
+      "address": "jiwati"
+    },
+    {
+      "id": 2,
+      "name": "sumit",
+      "email": "sumit@gmail.com",
+      "phone": "9923531401",
+      "address": "chnadrapur"
+    },
+    {
+      "id": 3,
+      "name": "vishal",
+      "email": "vishal@gmail.com",
+      "phone": "88456231",
+      "address": "chnadrapur"
+    },
+    {
+      "id": 5,
+      "name": "krsih",
+      "email": "krish@gmail.com",
+      "phone": "774859612",
+      "address": "bihar"
+    },
+    {
+      "id": 6,
+      "name": "om",
+      "email": "om@gmail.com",
+      "phone": "556481253",
+      "address": "mp"
+    },
+    {
+      "id": 7,
+      "name": "pranay",
+      "email": "pranay@gmail.com",
+      "phone": "44589966586",
+      "address": "chnadrapur"
+    },
+    {
+      "id": 8,
+      "name": "yami",
+      "email": "yami@gmail.com",
+      "phone": "884579658",
+      "address": "chandrapur"
+    },
+    {
+      "id": 9,
+      "name": "pinu",
+      "email": "pinu!gmail.com",
+      "phone": "44558615523",
+      "address": "yellapur"
+    },
+    {
+      "id": 11,
+      "name": "bandu",
+      "email": "bandu@gmail.com",
+      "phone": "778459632",
+      "address": "yellapur"
+    },
+    {
+      "id": 13,
+      "name": "avinash",
+      "email": "avinash@gmail.com",
+      "phone": "9956847582",
+      "address": "punoguda"
+    },
+    {
+      "name": "prashant",
+      "email": "prashant@gmail.com",
+      "phone": "8855669977",
+      "address": "yellapur",
+      "id": 14
+    }
+  ]
+}

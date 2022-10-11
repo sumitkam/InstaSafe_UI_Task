@@ -1,0 +1,29 @@
+
+.navbar{
+  background-color:#E0E5EC;
+  box-shadow: 9px 9px 16px rgb(163,177,198,0.6), -9px -9px 16px    rgba(255,255,255, 0.5);
+}
+
+.add{
+  background-color:#106dee;
+  box-shadow: 9px 9px 16px rgba(216, 229, 248, 0.6), -9px -9px 16px    rgba(208, 204, 231, 0.5);
+}
+
+/* .delete{
+  background-color:#f53a3a;
+  box-shadow: 9px 9px 16px rgba(238, 112, 112, 0.6), -9px -9px 16px    rgba(241, 118, 118, 0.5);
+} */
+.delete{
+  background-color:#f53a3a;
+  color: #fff;
+  box-shadow: 9px 9px 16px rgb(163,177,198,0.6), -9px -9px 16px    rgba(255,255,255, 0.5);
+}
+
+.card{
+  background-color:#fff;
+  box-shadow: 9px 9px 16px rgb(163,177,198,0.6), -9px -9px 16px    rgba(255,255,255, 0.5);
+}
+.modal{
+  background-color:transparent;
+  box-shadow: 9px 9px 16px rgb(163,177,198,0.6), -9px -9px 16px    rgba(255,255,255, 0.5);
+}
